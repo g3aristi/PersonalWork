@@ -1,0 +1,26 @@
+{
+  "name": "MyProj",
+  "version": "1.0.0",
+  "description": "trying out node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "tc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/g3aristi/PersonalWork.git"
+  },
+  "keywords": [
+    "Personal",
+    "Projects"
+  ],
+  "author": "Gilberto Aristizabal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g3aristi/PersonalWork/issues"
+  },
+  "homepage": "https://github.com/g3aristi/PersonalWork",
+  "dependencies": {
+    "express": "^4.11.2"
+  }
+}
